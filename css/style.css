@@ -481,6 +481,7 @@ li a{
  line-height: 1.2; 
 }
 .categories-content{
+  /* background-color: #d8ddd9; */
   display:grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, auto));
   align-items: center;
